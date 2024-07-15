@@ -20,7 +20,7 @@ openai_chat.py: Manages interaction with OpenAI's GPT model.
 Installation
 
 Clone this repository:
-git clone https://github.com/your-username/ai-assistant-personality-manager.git
+git clone https://github.com/your-username/ai_assistant_gui.git
 cd ai-assistant-personality-manager
 
 Create a virtual environment and activate it:
